@@ -11,7 +11,7 @@
 * [[Date | Date-FieldType]]
 * [[Integer | Integer-FieldType]]
 * [[Reference | Reference-FieldType]]
-
+* [[Select | Select-FieldType]]
 
 ## Page
 * [[Create custom page | Create-custom-page]]
