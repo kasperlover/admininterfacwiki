@@ -8,3 +8,7 @@
 * [[Add custom columns | Add-custom-columns]]
 * [[Add references | Add-references]]
 
+## Page
+* [[Create custom page | Create-custom-page]]
+* [[Add Widgets to Page | Add-Widgets-to-Page]]
+
