@@ -1,3 +1,19 @@
+// [Your project]/models/post.js // sequelize models
+```javascript
+module.exports = function(sequelize, DataTypes) {
+    const Post = sequelize.define('Post', {
+        title: DataTypes.STRING,
+        content: DataTypes.STRING
+    });
+
+    Post.associate = function(models) {
+        Post.belongsTo(models.User);
+    };
+
+    return Post;
+};
+```
+
 #### Create Model AI
 // [Your project]/admin-interface/models/Post.js
 ```javascript
