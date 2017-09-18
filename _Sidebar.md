@@ -7,6 +7,8 @@
 * [[Add custom fields | Add-custom-fields-(FieldFactory)]]
 * [[Add custom columns | Add-custom-columns]]
 * [[Add references | Add-references]]
+### FieldTypes
+* [[Date | Date-FieldType]]
 
 ## Page
 * [[Create custom page | Create-custom-page]]
