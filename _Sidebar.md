@@ -9,6 +9,7 @@
 * [[Add references | Add-references]]
 ### FieldTypes
 * [[Date | Date-FieldType]]
+* [[Integer | Integer-FieldType]]
 
 ## Page
 * [[Create custom page | Create-custom-page]]
