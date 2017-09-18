@@ -12,6 +12,7 @@
 * [[Integer | Integer-FieldType]]
 * [[Reference | Reference-FieldType]]
 * [[Select | Select-FieldType]]
+* [[String | String-FieldType]]
 
 ## Page
 * [[Create custom page | Create-custom-page]]
