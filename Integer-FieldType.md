@@ -1,4 +1,4 @@
 #### Using
 ```javascript
-new FieldFactory('title', 'Integer').setTitle('ID').setDisable(true)
+new FieldFactory('id', 'Integer').setTitle('ID').setDisable(true)
 ```
