@@ -13,6 +13,8 @@
 * [[Reference | Reference-FieldType]]
 * [[Select | Select-FieldType]]
 * [[String | String-FieldType]]
+* [[Textarea | Textarea-FieldType]]
+* [[Tinymce | Tinymce-FieldType]]
 
 ## Page
 * [[Create custom page | Create-custom-page]]
